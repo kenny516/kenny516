@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm Kenny, an IT student passionate about technology and coding. I'm currently studying  at It university.<br><br>🚀 What I'm working on:<br>Projects: I'm actively working on [briefly describe any projects you're working on, e.g., "a personal website using React" or "an open-source tool for data analysis"].<br>Skills: I have experience with Python, JavaScript, Git, SQL.<br>Interests: I’m interested in [machine learning, web development, cybersecurity].<br>🌱 Learning Goals:<br>I'm always eager to learn new things and improve my skills.<br><br>Thanks for visiting my GitHub profile! I’m excited to collaborate and contribute to the open-source community.<br><br>Happy coding! 💻
+Hi there! 👋<br>I'm Kenny, an IT student passionate about technology and coding. I'm currently studying  at It university.<br><br>🚀 What I'm working on:<br>Projects: I'm actively working on a personal website using React .<br>Skills: I have experience with Python, JavaScript, Git, SQL.<br>Interests: I’m interested in [machine learning, web development, cybersecurity].<br>🌱 Learning Goals:<br>I'm always eager to learn new things and improve my skills.<br><br>Thanks for visiting my GitHub profile! I’m excited to collaborate and contribute to the open-source community.<br><br>Happy coding! 💻
 
 
 ## 🌐 Socials:
