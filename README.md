@@ -40,7 +40,7 @@ class Kenny:
     def __init__(self):
         self.role = "IT Student"
         self.education = "IT University"
-        self.languages = ["Python", "JavaScript"]
+        self.languages = ["Python", "JavaScript", "Java", "Typescript", "Php"]
         self.interests = ["Machine Learning", "Web Development", "Cybersecurity"]
         self.current_project = "PharmaSys Management System"
         
