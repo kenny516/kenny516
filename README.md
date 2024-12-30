@@ -1,21 +1,110 @@
-# 💫 About Me:
-Hi there! 👋<br>I'm Kenny, an IT student passionate about technology and coding. I'm currently studying  at It university.<br><br>🚀 What I'm working on:<br>Projects: I'm actively working on a personal website using React .<br>Skills: I have experience with Python, JavaScript, Git, SQL.<br>Interests: I’m interested in [machine learning, web development, cybersecurity].<br>🌱 Learning Goals:<br>I'm always eager to learn new things and improve my skills.<br><br>Thanks for visiting my GitHub profile! I’m excited to collaborate and contribute to the open-source community.<br><br>Happy coding! 💻
+
+<div align="center">
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&color=2396ed&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Kenny!+🚀;Nice+to+meet+you!+😊" />
+  
+  <!-- Animated Banner -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<div align="center">
+  <!-- Role Description with Dynamic Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=✨+IT+Student;🐍+Python+Developer;⚡+JavaScript+Enthusiast;🌟+Open+Source+Contributor" alt="Typing SVG"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <br><br>
+  
+  <!-- Tech Stack Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="25">
+  <strong>Tech Stack & Tools:</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="25">
+  
+  <br><br>
+  
+  <img src="https://skillicons.dev/icons?i=python,java,spring,postgresql,javascript,nodejs,react,nextjs,html,css,tailwind,php,laravel,docker,kubernetes,git,github,vscode,idea,linux&theme=dark" />
+  
+
+</div>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+## 👨‍💻 About Me
+
+```python
+class Kenny:
+    def __init__(self):
+        self.role = "IT Student"
+        self.education = "IT University"
+        self.languages = ["Python", "JavaScript"]
+        self.interests = ["Machine Learning", "Web Development", "Cybersecurity"]
+        self.current_project = "PharmaSys Management System"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's create something amazing together!")
+
+me = Kenny()
+me.say_hi()
+```
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+## 🚀 Current Focus
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chankenny.andriantsirafy.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andriantsirafy-chan-kenny-69827430a/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@chankennyy) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=flat&logo=perl&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kenny516&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kenny516&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenny516&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🎓 Studying at IT University
+- 💻 Developing PharmaSys with Spring Boot & Thymeleaf
+- 🌱 Learning React Native and Laravel
+- 🤝 Collaborating on innovative open-source projects
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kenny516&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenny516&show_icons=true&theme=tokyonight&border_radius=20&bg_color=0d1117&border_color=4c8eda" width="49%" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=kenny516&theme=tokyonight&border_radius=20&background=0D1117&border=4C8EDA" width="49%" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenny516&bg_color=0d1117&color=4c8eda&line=2ba0ff&point=f4f4f4&area=true&hide_border=true&radius=16" width="98%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kenny516&theme=darkhub&no-frame=true&column=7&margin-w=5&margin-h=5" />
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://www.facebook.com/chankenny.andriantsirafy.9" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&style=plastic&logoWidth=30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/andriantsirafy-chan-kenny-69827430a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=30"/>
+  </a>
+  <a href="https://www.tiktok.com/@chankennyy" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white&style=plastic&logoWidth=30"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=kenny516&color=green" alt="Profile Views">
+
+
+
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
