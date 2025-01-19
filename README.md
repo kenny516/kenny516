@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://kenny516.github.io/kennyverse/src" target="_blank">
+  <a href="https://kenny516.github.io/kennyverse" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Check_out_my_Portfolio-FF6B6B?style=for-the-badge&logoColor=white"/>
   </a>
 </div>
