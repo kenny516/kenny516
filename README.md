@@ -47,6 +47,7 @@ const kenny = {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenny516&show_icons=true&theme=tokyonight&border_radius=20&bg_color=0d1117&border_color=4c8eda" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenny516&layout=compact&theme=tokyonight&border_radius=20&bg_color=0d1117&border_color=4c8eda" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenny516&bg_color=0d1117&color=4c8eda&line=2ba0ff&point=f4f4f4&area=true&hide_border=true&radius=16" width="98%" />
 </div>
 
 ## 🤝 Connect with Me
