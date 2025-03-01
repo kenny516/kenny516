@@ -26,16 +26,6 @@ const kenny = {
     }
 };
 ```
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/kenny516/pharmasys">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenny516&repo=pharmasys&theme=tokyonight&bg_color=0d1117&border_color=4c8eda" />
-  </a>
-  <!-- Add more featured projects as needed -->
-</div>
-
 ## 💻 Tech Stack
 
 <div align="center">
