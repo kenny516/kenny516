@@ -15,14 +15,13 @@ const kenny = {
     role: "Full Stack Developer & IT Student",
     education: "IT University",
     location: "Madagascar",
-    interests: ["Web Development", "Machine Learning", "Cybersecurity"],
-    currentFocus: "PharmaSys Management System",
+    interests: ["Web Development", "Machine Learning", "Cybersecurity"]
     technicalSkills: {
         languages: ["Python", "JavaScript", "Java", "TypeScript", "PHP"],
         frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind"],
         backend: ["Spring Boot", "Node.js", "Laravel"],
         databases: ["PostgreSQL"],
-        tools: ["Docker", "Kubernetes", "Git"]
+        tools: ["Docker", "Git"]
     }
 };
 ```
