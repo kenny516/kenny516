@@ -15,7 +15,7 @@ const kenny = {
     role: "Full Stack Developer & IT Student",
     education: "IT University",
     location: "Madagascar",
-    interests: ["Web Development", "Machine Learning", "Cybersecurity"]
+    interests: ["Web Development", "Machine Learning", "Cybersecurity"],
     technicalSkills: {
         languages: ["Python", "JavaScript", "Java", "TypeScript", "PHP"],
         frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind"],
