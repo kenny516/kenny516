@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<a href="https://chan-kenny-dev.vercel.app" target="_blank" rel="noopener noreferrer" title="Open Portfolio">
+<a href="https://chan-kenny-dev.vercel.app" target="_blank" rel="noopener noreferrer" title="Open my Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-2396ED?style=flat&labelColor=0d1117" alt="Portfolio" />
 </a>
 </div>
