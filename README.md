@@ -16,7 +16,6 @@ I'm a software developer with experience in application development, system inte
   </a>
 </div>
 
-<br />
 
 ---
 
@@ -34,7 +33,6 @@ Data engineering · Data modeling · Distributed systems · Scalable architectur
 
 [Portfolio](https://chan-kenny-dev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/andriantsirafy-chan-kenny-69827430a) · [Email](mailto:kennyandriantsirafychan@gmail.com)
 
-<br />
 
 ---
 
