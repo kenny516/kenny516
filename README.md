@@ -11,7 +11,7 @@
 I'm a software developer with experience in application development, system integration, and automation, currently expanding my knowledge of data engineering.
 
 <div align="center">
-  <a href="https://chan-kenny-dev.vercel.app/">
+  <a href="https://kennychan.me">
     <img src="https://img.shields.io/badge/Explore%20my%20portfolio-%231A1A1A?style=for-the-badge" alt="Explore my portfolio" />
   </a>
 </div>
