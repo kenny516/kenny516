@@ -1,39 +1,21 @@
-<div align="right">
-  <sub>&nbsp; SOFTWARE & DATA</sub>
-</div>
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/kenny-chan-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/kenny-chan-light.svg">
+    <img src="./assets/kenny-chan-light.svg" alt="Kenny Chan" width="520">
+  </picture>
+</h1>
 
-<br />
+**Software developer**
 
-# Hey, I'm Kenny.
+I build applications, integrate systems, and automate workflows that keep data moving between them.
 
-**Building software, exploring systems, and learning along the way.**
+## `CURRENT FOCUS`
 
-I'm a software developer with experience in application development, system integration, and automation, currently expanding my knowledge of data engineering.
+I’m exploring data engineering, especially data modeling, distributed systems, and scalable architectures.
 
-<div align="center">
-  <a href="https://chan-kenny-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore%20my%20portfolio-%231A1A1A?style=for-the-badge" alt="Explore my portfolio" />
-  </a>
-</div>
+## `CONTACT`
 
+<img src="./assets/signal.svg" alt="" width="9" height="9"> Open to new opportunities.
 
----
-
-### 01 / What I do
-
-My work revolves around building applications, integrating systems, and ensuring data flows reliably between them.
-
-### 02 / What I'm exploring
-
-Data engineering · Data modeling · Distributed systems · Scalable architectures
-
-### 03 / Get in touch
-
-**Open to new opportunities.**
-
-[Portfolio](https://chan-kenny-dev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/andriantsirafy-chan-kenny-69827430a) · [Email](mailto:kennyandriantsirafychan@gmail.com)
-
-
----
-
-<sub>Less noise. Better software.</sub>
+[`PORTFOLIO`](https://kennychan.me/) · [`LINKEDIN`](https://www.linkedin.com/in/andriantsirafy-chan-kenny-69827430a) · [`EMAIL`](mailto:kennyandriantsirafychan@gmail.com)
