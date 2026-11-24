@@ -1,3 +1,5 @@
+<sub><code>SOFTWARE &amp; DATA</code></sub>
+
 <h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/kenny-chan-dark.svg">
@@ -6,16 +8,18 @@
   </picture>
 </h1>
 
-**Software developer**
+## `WHAT I DO`
 
-I build applications, integrate systems, and automate workflows that keep data moving between them.
+My work revolves around building applications, integrating systems, and automating workflows to keep data moving reliably between them.
 
-## `CURRENT FOCUS`
+## `WHAT I'M EXPLORING`
 
-I’m exploring data engineering, especially data modeling, distributed systems, and scalable architectures.
+Data engineering · Data modeling · Distributed systems · Scalable architectures
 
-## `CONTACT`
+## `GET IN TOUCH`
 
-<img src="./assets/signal.svg" alt="" width="9" height="9"> Open to new opportunities.
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/signal.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/signal.svg"><img src="./assets/signal.svg" alt="" width="9" height="9"></picture> Open to new opportunities.
 
-[`PORTFOLIO`](https://kennychan.me/) · [`LINKEDIN`](https://www.linkedin.com/in/andriantsirafy-chan-kenny-69827430a) · [`EMAIL`](mailto:kennyandriantsirafychan@gmail.com)
+[`PORTFOLIO`](https://chan-kenny-dev.vercel.app/) · [`LINKEDIN`](https://www.linkedin.com/in/andriantsirafy-chan-kenny-69827430a) · [`EMAIL`](mailto:kennyandriantsirafychan@gmail.com)
+
+<sub>Less noise. Better software.</sub>
