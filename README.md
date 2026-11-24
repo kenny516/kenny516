@@ -1,39 +1,25 @@
-<div align="right">
-  <sub>&nbsp; SOFTWARE & DATA</sub>
-</div>
+<sub><code>SOFTWARE &amp; DATA</code></sub>
 
-<br />
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/kenny-chan-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/kenny-chan-light.svg">
+    <img src="./assets/kenny-chan-light.svg" alt="Kenny Chan" width="520">
+  </picture>
+</h1>
 
-# Hey, I'm Kenny.
+## `WHAT I DO`
 
-**Building software, exploring systems, and learning along the way.**
+My work revolves around building applications, integrating systems, and automating workflows to keep data moving reliably between them.
 
-I'm a software developer with experience in application development, system integration, and automation, currently expanding my knowledge of data engineering.
-
-<div align="center">
-  <a href="https://kennychan.me">
-    <img src="https://img.shields.io/badge/Explore%20my%20portfolio-%231A1A1A?style=for-the-badge" alt="Explore my portfolio" />
-  </a>
-</div>
-
-
----
-
-### 01 / What I do
-
-My work revolves around building applications, integrating systems, and ensuring data flows reliably between them.
-
-### 02 / What I'm exploring
+## `WHAT I'M EXPLORING`
 
 Data engineering · Data modeling · Distributed systems · Scalable architectures
 
-### 03 / Get in touch
+## `GET IN TOUCH`
 
-**Open to new opportunities.**
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/signal.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/signal.svg"><img src="./assets/signal.svg" alt="" width="9" height="9"></picture> Open to new opportunities.
 
-[Portfolio](https://chan-kenny-dev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/andriantsirafy-chan-kenny-69827430a) · [Email](mailto:kennyandriantsirafychan@gmail.com)
-
-
----
+[`PORTFOLIO`](https://chan-kenny-dev.vercel.app/) · [`LINKEDIN`](https://www.linkedin.com/in/andriantsirafy-chan-kenny-69827430a) · [`EMAIL`](mailto:kennyandriantsirafychan@gmail.com)
 
 <sub>Less noise. Better software.</sub>
