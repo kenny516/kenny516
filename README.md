@@ -1,5 +1,3 @@
-<sub><code>SOFTWARE &amp; DATA</code></sub>
-
 <h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/kenny-chan-dark.svg">
